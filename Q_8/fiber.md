@@ -1,6 +1,6 @@
 ## How do I know if I have AT&T coverage in my area?
 
-AT&T Internet availability depends on location. This means that if you’re moving, you might have different options for internet at your new home. 
+AT&T Internet availability depends on location. This means that if you're moving, you might have different options for internet at your new home. 
 
 How do I know if AT&T Fiber is available at my address?
 

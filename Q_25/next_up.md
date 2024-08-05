@@ -4,7 +4,7 @@ For tech lovers, it can be hard to go even a year or two without upgrading their
 
 ## What is AT&T Next Up?
 
-AT&T Next Up is AT&T’s phone upgrade program designed and geared towards early adopters looking for the flexibility to upgrade their phone sooner rather than later.   
+AT&T Next Up is AT&T's phone upgrade program designed and geared towards early adopters looking for the flexibility to upgrade their phone sooner rather than later.   
 For a $6 a month fee, you'll have the option to upgrade your phone early, after paying off 50% of your current device cost and turning it in for a new one.*   
 
 ## How to enroll in AT&T Next Up
