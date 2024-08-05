@@ -10,7 +10,7 @@ If you have:
 
 Internet service: You may have options for lower cost plans with the same or better features, such as faster internet speeds.
 
-Traditional or digital home-phone service: Your prices and plans will stay the same for now with all the same features—unless you request other changes.
+Traditional or digital home-phone service: Your prices and plans will stay the same for now with all the same features-unless you request other changes.
 
 U-verse TV service: You can keep your current plan at the same price for now. You can also use your existing equipment unless you choose to upgrade.
 Important: Make sure you check the notice we sent you. It includes the date by which you must transfer your service.

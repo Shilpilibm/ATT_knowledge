@@ -9,7 +9,7 @@ AT&T Fiber is powered by fiber optic cables and can transmit data at much higher
 ## Is AT&T Fiber still expanding?
 
 AT&T Fiber expansion and evolution is ongoing and is all part of the mission to make AT&T the best connectivity provider in America.
-There are many factors that contribute to the timing of AT&T consumer fiber deployment, including, but not limited to, resources, local permitting, access to property or community and even environmental factors.  We are constantly evaluating new metros to add to the AT&T Fiber footprint.
+There are many factors that contribute to the timing of AT&T consumer fiber deployment, including, but not limited to, resources, local permitting, access to property or community and even environmental factors.We are constantly evaluating new metros to add to the AT&T Fiber footprint.
 
 ## If I want a faster internet connection, can I upgrade my AT&T internet?
 
