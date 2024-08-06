@@ -22,3 +22,13 @@ If you are a new AT&T customer or if you are upgrading your current AT&T Interne
 AT&T Fiber installation may require a technician to come to your home, even if you already have other AT&T services. Fiber services require different types of cable and equipment, and the technician will upgrade the internet lines to your home to be sure you have our most up-to-date fiber optic technology.
 Though it varies, AT&T Fiber typically takes from four to six hours to be fully installed. Installation can include replacing existing copper wiring with new fiber lines that will provide you with our best internet experience.
 When your AT&T Fiber internet service is installed, you may need a new Wi-Fi gateway. Also, if you choose, we can help set you up with Extended Wi-Fi Coverage service.
+
+## How much does AT&T Fiber cost?
+
+Your monthly rate will depend on which plan you choose. All fiber plans are eligible for a $10/mo. AutoPay & paperless billing discount. Plus, there is no price increase at 12 months, no annual contract, no internet data caps, and no equipment fees.
+
+## If I want a faster internet connection, can I upgrade my AT&T internet?
+
+If you are a current AT&T Internet customer and want a faster Internet plan, you can check to see if you are eligible to upgrade to a faster plan here. You will be prompted to log in to your existing myAT&T account to modify your service. If a faster Internet plan is available at your address, you can follow the prompts to upgrade your Internet plan online.
+Where available, you might consider upgrading to an AT&T Fiber plan. Fiber optic internet delivers faster speeds than traditional copper internet. In fact, AT&T Fiber with 5 GIG speeds delivers the fastest residential internet of any major internet service provider in select areas.1 The cost of upgrading to an AT&T Fiber plan will vary depending on the plan you choose. 
+

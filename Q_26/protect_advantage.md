@@ -33,3 +33,15 @@ Insurance and service contract coverage is optional and you are not required to 
 
 ## Non-return fee
 If your device is damaged or if your lost device is later found, you can avoid non-return fees of up to $850 (the fee is based on the cost of the claim to the insurance company) by simply returning the device as directed by us in the return envelope that we provide to you.
+
+## What is ProTech support?
+
+ProTech support is available to AT&T Protect Advantage plan subscribers and offers access to expert technical support for your covered devices.
+
+## What is the AT&T Photo Storage app?
+
+The AT&T Photo Storage app gives you a quick and easy way to automatically back up, share, and preserve the photos and videos on your device. It's also a great way to free up more storage on your device. AT&T Photo Storage4 gives you unlimited storage space for your photo and video collection.
+
+## What determines if I pay $14 or $17 per month for my Protect Advantage for 1 plan?
+
+The cost for AT&T Protect Advantage for 1 depends on the device tier and value. Devices may move device tiers during your enrollment. Tier changes will be updated online 

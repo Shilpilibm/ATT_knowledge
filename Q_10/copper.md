@@ -14,6 +14,7 @@ Traditional or digital home-phone service: Your prices and plans will stay the s
 
 U-verse TV service: You can keep your current plan at the same price for now. You can also use your existing equipment unless you choose to upgrade.
 Important: Make sure you check the notice we sent you. It includes the date by which you must transfer your service.
+
 Installation details
 
 The installation usually takes between two and four hours. You (or an authorized adult) must be home for the entire time. That way, we'll have access to install new equipment and update your service. Plus, your input will help our technician choose the right options to fit your needs.
