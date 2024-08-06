@@ -20,7 +20,7 @@ Moving is a great time to explore the internet options in your new neighborhood,
 
 ## I'm transferring my Internet service to a new home, should I take my equipment with me?
 
-Yes! If you're transferring your AT&T internet service, you should take your equipment with you to your new home. In many instances, moving AT&T internet service for current customers is as simple as moving your Wi-Fi Gateway to your new address and plugging it in—so it's important to bring your existing equipment with you. If your equipment is outdated, you may get an email from AT&T with instructions on how to return old equipment.
+Yes! If you're transferring your AT&T internet service, you should take your equipment with you to your new home. In many instances, moving AT&T internet service for current customers is as simple as moving your Wi-Fi Gateway to your new address and plugging it in -so it's important to bring your existing equipment with you. If your equipment is outdated, you may get an email from AT&T with instructions on how to return old equipment.
 If you're already an AT&T Fiber customer or you're upgrading to fiber internet, you may need to schedule an installation appointment, but there's a chance you can quickly activate your new fiber internet yourself.
 
 ## Should I cancel my AT&T service before I move?

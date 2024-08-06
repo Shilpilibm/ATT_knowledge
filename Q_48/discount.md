@@ -6,11 +6,11 @@ With the AT&T Signature Program discount, you could save $10 a month per line up
 ## How is eligibility determined?
 
 Let's review the eligible groups and their respective discounts:
-Business employees depending on where you work,  may be eligible to save $10/mo. per line with our AT&T Unlimited Premium® PL plan.*
+Business employees depending on where you work,  may be eligible to save $10/mo. per line with our AT&T Unlimited Premium  PL plan.*
 AARP members also enjoy $10/mo. per line with AT&T Unlimited Premium PL.
 Union members can save $10/mo. per line with AT&T Unlimited Premium PL.
 College Students may be eligible to save $10/mo. per line with the AT&T Unlimited Premium PL plan.
-If none of the categories apply to you, we also provide a 25% discount on our best unlimited plans for those who serve with our Appreciation Offer discount.  Eligible military & veterans, first responders, nurses & physicians, and teachers receive a 25% discount per line, up to 10 lines off of our best unlimited plans:  AT&T Unlimited Starter® SL, AT&T Unlimited Extra® EL, and AT&T Unlimited Premium PL.*
+If none of the categories apply to you, we also provide a 25% discount on our best unlimited plans for those who serve with our Appreciation Offer discount.  Eligible military & veterans, first responders, nurses & physicians, and teachers receive a 25% discount per line, up to 10 lines off of our best unlimited plans:  AT&T Unlimited Starter  SL, AT&T Unlimited Extra  EL, and AT&T Unlimited Premium PL.*
 
 ## What is AutoPay?
 
