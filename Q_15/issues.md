@@ -44,16 +44,16 @@ Satellite, fixed wireless broadband, and other wireless internet connections are
 Lag Switches
 Some people who play online games install a device called a lag switch on their local network. A lag switch intercepts network signals and introduces delays in the flow of data back to other gamers connected to a live session. You can do little to solve this kind of lag problem other than avoiding playing with those who use lag switches
 
-## What causes a ‘dead zone?’
-Cellular signals come from towers that transmit a signal. While there’s no shortage of cell towers in all but the most remote locations, many other factors can prevent these radio frequency (RF) cellular signals from reaching your mobile device. Areas where something is standing between the nearest cell tower and your mobile device are known as dead zones. In these spots, devices cannot access a strong enough signal to function properly on a cellular network.
+## What causes a 'dead zone?'
+Cellular signals come from towers that transmit a signal. While there's no shortage of cell towers in all but the most remote locations, many other factors can prevent these radio frequency (RF) cellular signals from reaching your mobile device. Areas where something is standing between the nearest cell tower and your mobile device are known as dead zones. In these spots, devices cannot access a strong enough signal to function properly on a cellular network.
 
 Causes for dead zones:
 
-Distance from cell towers – If you’re in one of the few remaining remote areas that lack sufficient cell tower coverage, connections will obviously be tricky. Even if you do get a signal in these areas, it is often spotty, resulting in dropped calls, lost connections, and a drained battery as your phone or device searches endlessly for signal.
-Terrain/Environment – There are several types of terrain that can obstruct signals from cell towers. Mountains, hills, and bluffs can all render an area a dead zone by absorbing cell signals before they reach a mobile device. Tall trees, dense forests, and other vegetation can also act as barriers to cell signal waves.
-Metal and glass in vehicles – The materials that are used to keep us safe inside of our cars, or on trains and subways, can also keep cellular signals out. Most of us willingly accept this tradeoff, but those materials are often the reasons we experience dropped calls while in transit. That’s why you’ll often find that rolling down a car window can quickly boost the quality of a call.
-Building construction materials – Brick, concrete, and the steel materials used in the construction of commercial buildings, bridges, tunnels and parking garages are notorious cell signal obstructors. Green building materials, including LEED-certified windows, can also hamper cell service. All of these materials can be difficult for cellular signals to penetrate, and can render an already weak signal useless.
-Atmospheric/weather conditions – Turbulent storms, thick fog, and other weather conditions can easily disrupt cell signals.
+Distance from cell towers - If you're in one of the few remaining remote areas that lack sufficient cell tower coverage, connections will obviously be tricky. Even if you do get a signal in these areas, it is often spotty, resulting in dropped calls, lost connections, and a drained battery as your phone or device searches endlessly for signal.
+Terrain/Environment - There are several types of terrain that can obstruct signals from cell towers. Mountains, hills, and bluffs can all render an area a dead zone by absorbing cell signals before they reach a mobile device. Tall trees, dense forests, and other vegetation can also act as barriers to cell signal waves.
+Metal and glass in vehicles - The materials that are used to keep us safe inside of our cars, or on trains and subways, can also keep cellular signals out. Most of us willingly accept this tradeoff, but those materials are often the reasons we experience dropped calls while in transit. That's why you'll often find that rolling down a car window can quickly boost the quality of a call.
+Building construction materials - Brick, concrete, and the steel materials used in the construction of commercial buildings, bridges, tunnels and parking garages are notorious cell signal obstructors. Green building materials, including LEED-certified windows, can also hamper cell service. All of these materials can be difficult for cellular signals to penetrate, and can render an already weak signal useless.
+Atmospheric/weather conditions - Turbulent storms, thick fog, and other weather conditions can easily disrupt cell signals.
 
 Network Problem #1. Intermittent Network Problems 
  
@@ -72,7 +72,7 @@ Network Problem #2. High Bandwidth Usage
  
 Bandwidth is the maximum amount of data transmitted over an Internet connection in a given amount of time.
 
-It refers to a network’s capacity to transfer data between devices or the Internet within a given span of time. Bandwidth is often mistaken for Internet speed when it's actually the volume of information that can be sent over a connection in a measured amount of time – calculated in megabits per second (Mbps).
+It refers to a network's capacity to transfer data between devices or the Internet within a given span of time. Bandwidth is often mistaken for Internet speed when it's actually the volume of information that can be sent over a connection in a measured amount of time - calculated in megabits per second (Mbps).
 
 Higher bandwidth allows data to be transferred across your network at a faster rate and can sustain a larger number of connected devices all at once - but it can significantly impact network performance and user experience.
 
@@ -92,7 +92,7 @@ Increased Costs: Excessive bandwidth usage can lead to overage charges from inte
 
 Network Problem #3. High CPU Usage 
  
-CPU, or “ Central Processing Unit”, is the primary component of a computer that receives and processes instructions for operating systems and applications.
+CPU, or " Central Processing Unit", is the primary component of a computer that receives and processes instructions for operating systems and applications.
 
 High CPU usage is another common network problem that can significantly impact the performance and stability of a network. It occurs when the central processing unit (CPU) of a network device, such as a router, switch, firewall, or server, is operating at or near its maximum capacity. This can lead to various issues that affect the overall network functionality and user experience.
 
@@ -113,7 +113,7 @@ It may seem obvious, but some network issues may occur with the hardware outside
 
 When the time comes to troubleshoot network issues, our instinct is often to think about the most complex situations, when sometimes the problem is actually very simple and right in front of us.
 
-Hardware problems like defective cables or connectors can generate network errors on the network equipment to which it is connected. You may think that this problem is due to a network outage or network failure, or Internet connection problem, but it’s actually because you have a broken or malfunctioning cable.
+Hardware problems like defective cables or connectors can generate network errors on the network equipment to which it is connected. You may think that this problem is due to a network outage or network failure, or Internet connection problem, but it's actually because you have a broken or malfunctioning cable.
 
 This can also occur outside of the LAN network. If a copper cable, or fiber-optic cable is damaged, it will likely reduce the amount of data that can go through it without any packet loss.
 
@@ -133,9 +133,9 @@ Sometimes, network issues occur within network equipment or devices like Firewal
 
 Malfunctioning devices or equipment are a common network problem that can disrupt network operations and lead to various connectivity issues. This category encompasses hardware failures or malfunctions within network devices, such as routers, switches, firewalls, servers, or network interface cards (NICs). When devices malfunction, they may experience performance degradation or cease to function altogether, impacting the overall network performance and user experience.
 
-You need to ensure that all the devices on your network are configured correctly in order for your network to work properly. Whenever you install or reconfigure a device, or upgrade equipment firmware on your network, you need to test that device to ensure that it’s been configured correctly.
+You need to ensure that all the devices on your network are configured correctly in order for your network to work properly. Whenever you install or reconfigure a device, or upgrade equipment firmware on your network, you need to test that device to ensure that it's been configured correctly.
 
-Many network performance issues are caused by device misconfigurations that can affect different parts of your network and turn into major problems down the line. That’s why you need to pay attention to all the switches and devices on your network to ensure that they’re always working as they should be, and react quickly if they aren’t.
+Many network performance issues are caused by device misconfigurations that can affect different parts of your network and turn into major problems down the line. That's why you need to pay attention to all the switches and devices on your network to ensure that they're always working as they should be, and react quickly if they aren't.
 
 I. The Consequences of Malfunctioning Devices or Equipment 
  
@@ -156,7 +156,7 @@ When DNS issues arise, users may experience difficulties accessing websites, sen
 
 I. The Consequences of DNS Issues 
  
-The inability to access the Internet or particular sites can have a very immediate and negative impact on your business - especially if it means that users cannot access your site. Just a few hours offline can cost your company in more ways than one, which is why it’s important to find and fix DNS problems as soon as possible.
+The inability to access the Internet or particular sites can have a very immediate and negative impact on your business - especially if it means that users cannot access your site. Just a few hours offline can cost your company in more ways than one, which is why it's important to find and fix DNS problems as soon as possible.
 
 Website Inaccessibility: Users may be unable to access websites or services due to failed DNS resolutions.
 Email Delivery Issues: DNS problems can affect email delivery, causing delays or preventing emails from being sent or received.
