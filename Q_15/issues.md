@@ -44,6 +44,17 @@ Satellite, fixed wireless broadband, and other wireless internet connections are
 Lag Switches
 Some people who play online games install a device called a lag switch on their local network. A lag switch intercepts network signals and introduces delays in the flow of data back to other gamers connected to a live session. You can do little to solve this kind of lag problem other than avoiding playing with those who use lag switches
 
+## What causes a ‘dead zone?’
+Cellular signals come from towers that transmit a signal. While there’s no shortage of cell towers in all but the most remote locations, many other factors can prevent these radio frequency (RF) cellular signals from reaching your mobile device. Areas where something is standing between the nearest cell tower and your mobile device are known as dead zones. In these spots, devices cannot access a strong enough signal to function properly on a cellular network.
+
+Causes for dead zones:
+
+Distance from cell towers – If you’re in one of the few remaining remote areas that lack sufficient cell tower coverage, connections will obviously be tricky. Even if you do get a signal in these areas, it is often spotty, resulting in dropped calls, lost connections, and a drained battery as your phone or device searches endlessly for signal.
+Terrain/Environment – There are several types of terrain that can obstruct signals from cell towers. Mountains, hills, and bluffs can all render an area a dead zone by absorbing cell signals before they reach a mobile device. Tall trees, dense forests, and other vegetation can also act as barriers to cell signal waves.
+Metal and glass in vehicles – The materials that are used to keep us safe inside of our cars, or on trains and subways, can also keep cellular signals out. Most of us willingly accept this tradeoff, but those materials are often the reasons we experience dropped calls while in transit. That’s why you’ll often find that rolling down a car window can quickly boost the quality of a call.
+Building construction materials – Brick, concrete, and the steel materials used in the construction of commercial buildings, bridges, tunnels and parking garages are notorious cell signal obstructors. Green building materials, including LEED-certified windows, can also hamper cell service. All of these materials can be difficult for cellular signals to penetrate, and can render an already weak signal useless.
+Atmospheric/weather conditions – Turbulent storms, thick fog, and other weather conditions can easily disrupt cell signals.
+
 Network Problem #1. Intermittent Network Problems 
  
 Intermittent network problems are a frustrating and common network issue characterized by sporadic disruptions in network connectivity and performance. Unlike consistent or continuous problems, intermittent issues occur irregularly, making them challenging to diagnose and troubleshoot.
