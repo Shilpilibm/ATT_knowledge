@@ -1,3 +1,49 @@
+## What Is Throughput in Networking?
+
+So, how do we define throughput? Again, network throughput refers to how much data can be transferred from source to destination within a given timeframe. Throughput measures how many packets arrive at their destinations successfully. For the most part, throughput capacity is measured in bits per second, but it can also be measured in data per second. Packet arrival is key to high-performance service within a network. When people use programs or software, they want their requests to be heard and responded to in a timely fashion. Packets lost in transit lead to poor or slow network performance, and low throughput indicates problems like packet loss.
+
+Using throughput to measure network speed is good for troubleshooting because it can root out the exact cause of a slow network and alert administrators to problems, specifically in regard to packet loss. Packet loss, latency, and jitter are all related to slow throughput speed. Latency is the amount of time it takes for a packet to make it from source to destination, and jitter refers to the difference in packet delay. Minimizing all these factors is critical to increasing throughput speed and data performance.
+
+## What is network latency?
+
+Network latency is the delay in network communication. It shows the time that data takes to transfer across the network. Networks with a longer delay or lag have high latency, while those with fast response times have low latency. Businesses prefer low latency and faster network communication for greater productivity and more efficient business operations. Some types of applications, such as fluid dynamics and other high performance computing use cases, require low network latency to keep up with their computation demands. High network latencies cause the application performance to degrade, and at high enough levels to fail.
+
+Network latency (sometimes referred to as lag) is best described as the delay in the time that data takes to transfer across a network. A long delay indicates high latency, while faster response times have low latency.
+
+How to Fix Latency
+Latency can fluctuate in small amounts from one minute to the next, but the additional lag from small increases can be noticeable. The following are common reasons for internet lag, some of which are out of your control:
+
+Replace or add a router. Any router eventually bogs down if too many clients use it at the same time. Network contention among multiple clients means that those clients sometimes wait for each other's requests to be processed, causing lag. To fix this, replace the router with a more powerful model, or add another router to the network to alleviate this problem.
+
+Similarly, network contention occurs on a residence's connection to the internet provider if saturated with traffic.
+Avoid simultaneous downloads. Depending on the speed of your connection, avoid too many simultaneous downloads and online sessions to minimize lag.
+
+Don't use too many applications at once. PCs and other client devices become a source of network lag if unable to process network data quickly. While modern computers are sufficiently powerful in most situations, devices can slow down if too many applications run simultaneously. If you think you have too many programs open, close a few.
+
+Running applications that don't generate network traffic can introduce lag. For example, a misbehaving program can consume all the available CPU, which delays the computer from processing network traffic for other applications. If a program doesn't respond, force it to close.
+
+Scan and remove malware. A network worm hijacks a computer and its network interface, which can cause it to perform sluggishly, similar to being overloaded. Running antivirus software on devices connected to the network detects and removes these worms.
+
+Use a wired connection instead of wireless. Online gamers, as an example, often prefer to run their devices over wired Ethernet instead of Wi-Fi because Ethernet supports lower latencies. While the savings is typically only a few milliseconds in practice, wired connections also avoid the risk of interference that can result in significant lag.
+
+Utilize local cache. One way to reduce latency is to utilize caching in your browser, which is a way for the program to store recently used files so that you can access those files locally the next time you request files from that site (no download is necessary).
+
+Most browsers cache files by default, but if you delete the browser cache too often, it takes longer to load the same pages you recently visited.
+Other Causes of Latency Issues
+Some latency issues can be fixed, but the following are latency issues that aren't usually in your control.
+
+Traffic Load
+Spikes in internet use during peak usage times of day often cause lag. The nature of this lag varies by the service provider and the geographic location. Other than moving locations or changing internet service, an individual user can't avoid this kind of lag.
+
+Online Application Load
+Online multiplayer games, websites, and other client-server network applications use shared internet servers. If these servers become overloaded with activity, the clients experience lag.
+
+Wireless Interference
+Satellite, fixed wireless broadband, and other wireless internet connections are susceptible to signal interference from the rain. Wireless interference causes network data to be corrupted in transit, causing lag from re-transmission delays.
+
+Lag Switches
+Some people who play online games install a device called a lag switch on their local network. A lag switch intercepts network signals and introduces delays in the flow of data back to other gamers connected to a live session. You can do little to solve this kind of lag problem other than avoiding playing with those who use lag switches
+
 Network Problem #1. Intermittent Network Problems 
  
 Intermittent network problems are a frustrating and common network issue characterized by sporadic disruptions in network connectivity and performance. Unlike consistent or continuous problems, intermittent issues occur irregularly, making them challenging to diagnose and troubleshoot.
